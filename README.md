@@ -1,6 +1,6 @@
 # hueizero (Philips Hue + guizero)
 
-A demo app for controlling Philips Hue light switches using a GUI created with [guizero](https://lawsie.github.io/guizero/).
+A demo app for controlling Philips Hue lights using a GUI created with [guizero](https://lawsie.github.io/guizero/).
 
 ## Software
 
